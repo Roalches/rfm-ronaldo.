@@ -1,3 +1,7 @@
 When I write code that deals with external services, I find it valuable to separate that access code into separate objects. 
 Refactoring code that accesses external services shows how I would refactor some congealed code into a common pattern for this.
+<<<<<<< HEAD
 ver2
+=======
+ver1
+>>>>>>> rfm-ronaldo-ver1
